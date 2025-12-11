@@ -1,0 +1,6 @@
+# Ignore all __pycache__ directories everywhere
+__pycache__/
+
+# Ignore ticket-c6cafd.txt in any folder
+**/ticket-c6cafd.txt
+
